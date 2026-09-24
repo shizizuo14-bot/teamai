@@ -4,14 +4,14 @@ projects:
     name: AgentScope
     description: AgentScope Python demo and framework work
     resources:
-      skills: []
+      skills: [common]
   - id: vision-be
     name: Vision Backend
     description: Java backend project
     resources:
-      skills: [java]
+      skills: [common, java]
   - id: zt-metric-be
     name: ZT Metric Backend
     description: Java backend project
     resources:
-      skills: [java]
+      skills: [common, java]
