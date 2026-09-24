@@ -1,0 +1,17 @@
+version: 1
+projects:
+  - id: agentscope
+    name: AgentScope
+    description: AgentScope Python demo and framework work
+    resources:
+      skills: []
+  - id: vision-be
+    name: Vision Backend
+    description: Java backend project
+    resources:
+      skills: [java]
+  - id: zt-metric-be
+    name: ZT Metric Backend
+    description: Java backend project
+    resources:
+      skills: [java]
