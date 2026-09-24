@@ -4,3 +4,4 @@ registeredAt: 2026-09-24T02:03:50.568Z
 projects:
   - agentscope
   - vision-be
+  - zt-metric-be
