@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目知识沉淀"
+  short_description: "审查并沉淀稳定、可验证的项目知识、业务规则与防错经验"
+  default_prompt: "使用 $capturing-project-knowledge 评估当前任务是否产生了值得长期保留的项目知识；仅在确有沉淀价值时，提出有证据支撑的修改建议。"
