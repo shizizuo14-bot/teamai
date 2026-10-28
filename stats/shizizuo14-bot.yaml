@@ -1,5 +1,5 @@
 username: shizizuo14-bot
-updatedAt: 2026-10-28T00:56:23.338Z
+updatedAt: 2026-10-28T02:55:27.915Z
 skills:
   capturing-project-knowledge:
     count: 4
@@ -11,26 +11,32 @@ skills:
     count: 1
     lastUsed: 2026-09-24T03:00:10.619Z
   tencent-docs-routing:
-    count: 4
+    count: 5
     lastUsed: 2026-10-12T01:23:02.451Z
   tencent-local-office-edit:
-    count: 4
+    count: 5
     lastUsed: 2026-10-12T01:24:16.597Z
   humanize-ai-text:
-    count: 4
+    count: 5
     lastUsed: 2026-10-12T01:47:42.199Z
   tencent-docs-sheet-generation:
-    count: 4
+    count: 5
     lastUsed: 2026-10-12T01:48:24.053Z
   ai-comic-drama-scriptwriter-kb:
-    count: 2
+    count: 3
     lastUsed: 2026-10-27T05:57:37.701Z
+  flova-story-driven-video:
+    count: 1
+    lastUsed: 2026-10-28T00:56:23.361Z
+  flova:
+    count: 1
+    lastUsed: 2026-10-28T00:56:34.242Z
 interventions:
-  sessions: 44
+  sessions: 50
   interrupt: 0
   toolReject: 0
-  correction: 4
-prompts: 99
+  correction: 5
+prompts: 124
 tokens:
   input: 0
   output: 0
@@ -48,40 +54,50 @@ daily:
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-10:
-    sessionsEnded: 6
-    sessionsSucceeded: 6
-    promptTurns: 27
-    durationMs: 3410161
+    sessionsEnded: 7
+    sessionsSucceeded: 7
+    promptTurns: 32
+    durationMs: 4058529
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-12:
-    sessionsEnded: 4
+    sessionsEnded: 5
     sessionsSucceeded: 0
-    promptTurns: 44
-    durationMs: 15936244
-    sessionsCorrected: 4
+    promptTurns: 55
+    durationMs: 19920305
+    sessionsCorrected: 5
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-17:
-    sessionsEnded: 3
-    sessionsSucceeded: 3
-    promptTurns: 3
-    durationMs: 235311
+    sessionsEnded: 4
+    sessionsSucceeded: 4
+    promptTurns: 4
+    durationMs: 313748
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-10-27:
-    sessionsEnded: 2
-    sessionsSucceeded: 2
-    promptTurns: 8
-    durationMs: 5571343
+    sessionsEnded: 3
+    sessionsSucceeded: 3
+    promptTurns: 14
+    durationMs: 9608981
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+  2026-10-28:
+    sessionsEnded: 1
+    sessionsSucceeded: 1
+    promptTurns: 1
+    durationMs: 2312543
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
